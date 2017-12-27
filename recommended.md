@@ -8,12 +8,10 @@ layout: page
 
 ## Для користувачів
 
-Як не стати кібер-жертвою: поради з персональної кібер-безпеки (also known as Don't Click Shit Guide)
-https://github.com/sapran/dontclickshit
+Як не стати кібер-жертвою: поради з персональної кібер-безпеки (also known as Don't Click Shit Guide) [https://github.com/sapran/dontclickshit](https://github.com/sapran/dontclickshit)
 
 Мій відео-канал в YouTube про персональну кібер-безпеку, приватність та методи їх захисту
-
-
+[https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A](https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A)
 
 ## Для професіоналів
 
