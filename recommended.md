@@ -13,8 +13,6 @@ layout: page
 Мій відео-канал в YouTube про персональну кібер-безпеку, приватність та методи їх захисту
 [https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A](https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A)
 
-{% youtube "https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A" %}
-
 ## Для професіоналів
 
 ### Онлайн-курси
