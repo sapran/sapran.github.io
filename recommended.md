@@ -6,9 +6,16 @@ author: Vlad Styran
 layout: page
 ---
 
-![Homer Simpson](/img/homer.gif)
+## Для користувачів
 
-## Кібер-безпека
+Як не стати кібер-жертвою: поради з персональної кібер-безпеки (also known as Don't Click Shit Guide)
+https://github.com/sapran/dontclickshit
+
+Мій відео-канал в YouTube про персональну кібер-безпеку, приватність та методи їх захисту
+
+
+
+## Для професіоналів
 
 ### Онлайн-курси
 
