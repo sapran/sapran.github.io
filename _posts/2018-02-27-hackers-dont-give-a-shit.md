@@ -18,4 +18,4 @@ excerpt_separator: <!-- more -->
 
 І тоді у вас будуть шанси не стати жертвою.
 
-![Hacker don't give a shit](img/hackersdontgiveashit.jpg)
+![Hacker don't give a shit](/img/hackersdontgiveashit.jpg)
