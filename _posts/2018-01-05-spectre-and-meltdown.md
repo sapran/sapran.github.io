@@ -2,7 +2,7 @@
 layout: post
 title: Spectre & Meltdown
 subtitle: покрокове пояснення
-date: 2018-02-05
+date: 2018-01-05
 author: Vlad Styran
 excerpt_separator: <!-- more -->
 ---
