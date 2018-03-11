@@ -7,7 +7,7 @@ author: Vlad Styran
 excerpt_separator: <!-- more -->
 ---
 
-Оригінал: https://twitter.com/gsuberland/status/948907452786933762
+Оригінал: [https://twitter.com/gsuberland/status/948907452786933762](https://twitter.com/gsuberland/status/948907452786933762)
 
 ### Інтро
 
@@ -64,7 +64,7 @@ excerpt_separator: <!-- more -->
 
 Пам'ятайте, що виконання є лише спекулятивним - процесор пізніше зрозуміє, що у мене не було привілеїв перейти до цього коду, та видасть помилку. Тому цільовий код повинен здійснювати витік даних ядра через побічні канали кешу, як і раніше.
 
-Ви також помітите, що нам потрібно знати адресу цільового коду ядра. З KASLR (Kernel Address Space Layout Randomization) це не так просто. Цей блог Project Zero пояснює, як можна перемогти KASLR, використовуючи прогнозування розгалужень та кешування як побічний канал, тому я не буду вдаватися до опису деталей: https://googleprojectzero.blogspot.co.uk/2018/01/reading-privileged-memory-with-side.html
+Ви також помітите, що нам потрібно знати адресу цільового коду ядра. З KASLR (Kernel Address Space Layout Randomization) це не так просто. Цей блог Project Zero пояснює, як можна перемогти KASLR, використовуючи прогнозування розгалужень та кешування як побічний канал, тому я не буду вдаватися до опису деталей: [https://googleprojectzero.blogspot.co.uk/2018/01/reading-privileged-memory-with-side.html](https://googleprojectzero.blogspot.co.uk/2018/01/reading-privileged-memory-with-side.html)
 
 Надзвичайно круто те, що це працює поза межами віртуальних машин. Замість традиційного непрямого переходу (наприклад, jmp eax) ми можемо використовувати команду vmcall, щоб спекулятивно виконувати код в ядрі хоста VM (гіпервізору) таким же чином, як і в  ядрі нашої ​​VM.
 
@@ -82,9 +82,9 @@ excerpt_separator: <!-- more -->
 
 Для повної інформації я рекомендую прочитати ці два документи, а також пости Project Zero, вказані вище.
 
-https://spectreattack.com/spectre.pdf
+[https://spectreattack.com/spectre.pdf](https://spectreattack.com/spectre.pdf)
 
-https://meltdownattack.com/meltdown.pdf
+[https://meltdownattack.com/meltdown.pdf](https://meltdownattack.com/meltdown.pdf)
 
 ---
 
