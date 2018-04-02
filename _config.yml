@@ -27,7 +27,7 @@ navbar-links:
     - Біо: "aboutme"
     - Резюме: "https://github.com/sapran/cv"
     - Сертифікати: "certs"
-  Доповіді: "talks"
+  Виступи: "talks"
   Проекти:
     - Berezha Security: "https://berezhasecurity.com"
     - No Name Podcast: http://nonamepodcast.podbean.com
