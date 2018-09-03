@@ -6,7 +6,7 @@ date: 2018-08-27
 author: Vlad Styran
 excerpt_separator: <!-- more -->
 ---
-![BlockChainJackson](blockchain_jackson.jpeg)
+![BlockChainJackson](img/blockchain_jackson.jpeg)
 
 Якщо ви спитаєте в людини, яка хоч трохи знається на кібербезпеці, поради щодо найефективніших засобів захисту від кібер-загроз, то почуєте приблизно таке.
 <!-- more -->
