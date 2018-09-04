@@ -1,6 +1,6 @@
 ---
 title: Рекомендовані матеріали
-subtitle: з інформаційної безпеки
+subtitle: з інформаційної безпеки і не тільки
 date: 2017-09-28
 author: Vlad Styran
 layout: page
@@ -62,10 +62,12 @@ layout: page
 - [Johnny Long, No Tech Hacking: A Guide to Social Engineering, Dumpster Diving, and Shoulder Surfing](https://www.amazon.com/No-Tech-Hacking-Engineering-Dumpster/dp/1597492159)
 - [NSA, Entangling the Web, A Guide To Internet Research](https://www.muckrock.com/foi/united-states-of-america-10/untangling-the-web-a-guide-to-internet-research-4903/)
 - [Kevin D. Mitnik, The Art of Deception: Controlling the Human Element of Security](https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X)
-- [Joe Navarro, What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)- [Joe Navarro, Louder Than Words: Take Your Career from Average to Exceptional with the Hidden Power of Nonverbal Intelligence](https://www.amazon.com/gp/product/0061771392/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [Joe Navarro, What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
+- [Joe Navarro, Louder Than Words: Take Your Career from Average to Exceptional with the Hidden Power of Nonverbal Intelligence](https://www.amazon.com/gp/product/0061771392/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 - [Robert B. Cialdini, Influence: The Psychology of Persuasion, Revised Edition](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
 - [Dan Arieli, Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 - [Paul Ekman, Emotions Revealed](https://www.amazon.com/Emotions-Revealed-Second-Edition-Communication/dp/0805083391)
+- [Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills](https://www.audible.com/pd/Your-Deceptive-Mind-A-Scientific-Guide-to-Critical-Thinking-Skills-Audiobook/B00D9473WC)
 
 ```TODO: Ekman's Telling Lies once read.```
 
