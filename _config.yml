@@ -25,11 +25,11 @@ description: "лабораторія кібернетично-параноїда
 navbar-links:
   Про мене:
     - Біо: "aboutme"
-    - Резюме: "https://github.com/sapran/cv"
+    - Резюме: https://github.com/sapran/cv
     - Сертифікати: "certs"
   Виступи: "talks"
   Проекти:
-    - Berezha Security: "https://berezhasecurity.com"
+    - Berezha Security: https://berezhasecurity.com
     - No Name Podcast: http://nonamepodcast.podbean.com
     - OWASP Kyiv: https://www.owasp.org/index.php/Kyiv
     - NoNameCon: https://nonamecon.org
@@ -37,9 +37,8 @@ navbar-links:
   Зв'язок:
     - Facebook: https://www.facebook.com/vstyran
     - YouTube: https://www.youtube.com/channel/UC0lC_29m01rCfMSYWZq-O3A
-    - Telegram: https://t.me/styran
-    - Twitter: https://twitter.com/c2FwcmFu
-    - Keybase: "https://keybase.io/sapran"
+    - Twitter: https://twitter.com/arunninghacker
+    - Keybase: https://keybase.io/sapran
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
