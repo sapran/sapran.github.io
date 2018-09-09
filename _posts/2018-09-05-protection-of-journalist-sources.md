@@ -7,13 +7,13 @@ author: Vlad Styran
 excerpt_separator: <!-- more -->
 ---
 
->“A hypothetical question, Miss Rey. What price would you pay, as a journalist I mean, to protect a source?”
->Luisa doesn`t consider the question. “If I believed in the issue? Any.”
->“Prison, for example, for contempt of court?”
->“If it came to it, yes.”
->“Would you be prepared to… compromise your own safety?”
->“Well…” Luisa does consider this. “I… guess I’d have to.”
-> -- *Cloud Atlas by David Mitchell*
+>“A hypothetical question, Miss Rey. What price would you pay, as a journalist I mean, to protect a source?”<br/>
+>Luisa doesn`t consider the question. “If I believed in the issue? Any.”<br/>
+>“Prison, for example, for contempt of court?”<br/>
+>“If it came to it, yes.”<br/>
+>“Would you be prepared to… compromise your own safety?”<br/>
+>“Well…” Luisa does consider this. “I… guess I’d have to.”<br/>
+> – *Cloud Atlas by David Mitchell*
 
 Давайте я розповім, як зробити так, щоб ані Генеральна прокуратура, ані СБУ, ані ФСБ не мали доступу до даних про ваші дзвінки, листування та місцезнаходження. Але спочатку, про те, що саме неправильно з наданням доступу до даних листування, дзвінків та розташування журналістів. Особливо тих журналістів, які ведуть антикорупційні журналістські розслідування.
 <!-- more -->
